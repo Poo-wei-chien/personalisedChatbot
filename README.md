@@ -1,5 +1,6 @@
 # Personalised Chatbot Integration using Llama 2
-![image]()
+
+![image](https://github.com/Poo-wei-chien/personalisedChatbot/blob/main/Llama-2-Meta-AI-Transforming-AI-Across-Industries.png)
 
 Hello everyone! I'm excited to guide you through the process of developing an AI chatbot using the Llama 2 model.
 
