@@ -11,7 +11,7 @@ To begin, we'll set up Llama 2 with an API. Follow the instructions outlined in 
 3. For Java, utilize HTTP requests to send the API. You can explore libraries to handle HTTP requests.
 
 ## Step 2  Implementing Retrieval-Augmented Generation (RAG) in Java
-In my personalisedChatbot.java code, I've created a class to incorporate Retrieval-Augmented Generation (RAG) functionality. This class reads from Handbook.txt, serving as the chatbot's main knowledge repository, which we use as a mock RAG process. The content within Handbook.txt can be freely modified and expanded to enrich the chatbot's knowledge base.
+In my personalisedChatbot.java code (feel free to edit the code if there is an error when running the file), I've created a class to incorporate the Retrieval-Augmented Generation (RAG) functionality. This class reads from Handbook.txt, serving as the chatbot's main knowledge repository, which we use as a mock RAG process. The content within Handbook.txt can be freely modified and expanded to enrich the chatbot's knowledge base.
 
 By integrating RAG into our Java implementation, we ensure that the chatbot leverages both retrieval-based and generative-based approaches to provide contextually relevant and coherent responses. This approach enhances the chatbot's conversational capabilities by incorporating both retrieved information and generated content.
 
