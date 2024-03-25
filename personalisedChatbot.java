@@ -36,7 +36,7 @@ public class personalisedChatbot {
 
     private static void makeHTTPRequest(String prompt) throws IOException {
         String apiUrl = "https://api.replicate.com/v1/predictions";
-        String apiKey = "r8_3bqhys1gVHboYiB8cdOlDH3ah4pxa7O0S8MrP";
+        String apiKey = "<paste-your-token-here>";
         String requestBody = "{\"prompt\":" +
                 "\"[INST] <<SYS>>\\nYou are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct.\\n<</SYS>>\\n " +
                 prompt + " [/INST]\"}}";
