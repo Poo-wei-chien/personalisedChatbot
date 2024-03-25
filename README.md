@@ -1,4 +1,5 @@
 # Personalised Chatbot Integration using Llama 2
+![image]()
 
 Hello everyone! I'm excited to guide you through the process of developing an AI chatbot using the Llama 2 model.
 
