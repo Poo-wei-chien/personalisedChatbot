@@ -37,4 +37,4 @@ This is the final output of the chatbot.
 ### Reminder:
 
 1. Be mindful of the API limits associated with each Github account. Coordinate with your team members if your API key reaches its limit.
-2. When declaring the 'Authorization' headers in Postman (during testing), ensure to create a new header with the Value as 'Token <Your API Key>' instead of using Barrer Token.
+2. When declaring the 'Authorization' headers in Postman (during testing), ensure to create a new header with the Value as 'Token (Your API Key)' instead of using Barrer Token.
