@@ -22,7 +22,7 @@ result = "User Question = " + query + "\nHandbook = { " + text + " }"
 #     }
 # )
 
-prompt = "[INST] <<SYS>>\nYou are a helpful, respectful and honest personalised customer service assistant, handbook is your extra knowledge to help the customer service system. Response professionally as customer service.\n<</SYS>>\n" + result + "[/INST]"
+prompt = "[INST] <<SYS>>\nYou are a helpful, respectful and honest personalised customer service assistant, handbook is your extra knowledge to help the customer service system. Response professionally as customer service of E-Gringotts, digital bank.\n<</SYS>>\n" + result + "[/INST]"
 
 output = replicate.run(
     "meta/llama-2-70b-chat:02e509c789964a7ea8736978a43525956ef40397be9033abf9fd2badfe68c9e3",
