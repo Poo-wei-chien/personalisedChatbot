@@ -9,7 +9,7 @@ Hello everyone! I'm excited to guide you through the process of developing an AI
 To begin, we'll set up Llama 2 with an API. Follow the instructions outlined in the <a href = 'https://replicate.com/blog/run-llama-2-with-an-api?input=http#choosing-which-model-to-use'> Run Llama 2 with an API </a>guide.
 
 1. Create an API key in 'Replicate'.
-2. Depending on your preferred programming language (Node.js, Python, or Java), declare the API key as an environment variable. You can watch this <a href = 'https://www.youtube.com/watch?v=znyhTD4McOg'>video</a> for setting up the API key in the environment variable.
+2. Depending on your preferred programming language (Node.js or Python), declare the API key as an environment variable. You can watch this <a href = 'https://www.youtube.com/watch?v=znyhTD4McOg'>video</a> for setting up the API key in the environment variable.
 3. For Java, utilize HTTP requests to send the API. You can explore libraries to handle HTTP requests.
 
 ## Step 2  Implementing Retrieval-Augmented Generation (RAG) in Java
